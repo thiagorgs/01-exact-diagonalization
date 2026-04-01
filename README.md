@@ -183,7 +183,7 @@ Default sizes (L = 8, 10, 12) balance computational cost with sufficient physics
 
 ## Author
 
-**Thiago Girao** - PhD candidate in Physics, researching quantum information and computation
+**Thiago Girao** - PhD candidate in Physics, researching quantum information and quantum computing.
 
 ## License
 
